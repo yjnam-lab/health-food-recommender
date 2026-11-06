@@ -14,4 +14,7 @@ wheels/
 
 #
 *.csv
+!name_lookup.csv
 *.R
+!recommender_engine.py
+!recommender_engine.R
